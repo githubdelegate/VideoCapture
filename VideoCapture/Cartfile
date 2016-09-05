@@ -1,0 +1,4 @@
+github "ReactiveCocoa/ReactiveCocoa"
+github "Alamofire/Alamofire" ~> 3.4
+github "SwiftyJSON/SwiftyJSON"
+github "realm/realm-cocoa"
